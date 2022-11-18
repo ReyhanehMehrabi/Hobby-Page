@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ReyhanehMehrabi/Hobby-Page/issues"
   },
-  "homepage": "https://github.com/ReyhanehMehrabi/Hobby-Page#readme"
+  "homepage": "https://github.com/ReyhanehMehrabi/Hobby-Page#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
 }

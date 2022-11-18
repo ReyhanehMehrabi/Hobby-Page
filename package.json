@@ -1,0 +1,19 @@
+{
+  "name": "hobby-page",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReyhanehMehrabi/Hobby-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReyhanehMehrabi/Hobby-Page/issues"
+  },
+  "homepage": "https://github.com/ReyhanehMehrabi/Hobby-Page#readme"
+}
